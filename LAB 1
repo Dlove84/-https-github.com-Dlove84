@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<!--
+Name: Dillon Love
+University: Southern Illinois University
+Date Developed: 3-20-25
+Date Tested: 3-20-25
+Comment Header for my website
+-->
+
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+
+    <!-- Meta description -->
+    <meta name="description" content="Dillon Love personal portfolio resume">
+
+    <!-- Meta keywords -->
+    <meta name="keywords" content="Dillon Love, personal portfolio, resume">
+
+    <title>TECHDAWGS RSO</title>
+</head>
+
+<body>
+
+    <!-- Header section -->
+    <header>
+        <!-- Graphic -->
+        <img src="images/tech-dawgs.jpg" alt="TechDawgs RSO Logo" width="500">
+    </header>
+
+    <!-- Main headings -->
+    <h1>TECHDAWGS RSO</h1>
+    <h2>COMMUNITY OUTREACH</h2>
+
+    <!-- Contact Name -->
+    <p><strong>Contact Name:</strong> Dillon Love</p>
+
+    <!-- SIU Address -->
+    <pre>
+SIU
+School of Computing
+Mail Code 6614
+Southern Illinois University
+1365 Douglas Drive
+Carbondale, Illinois 62901
+    </pre>
+
+    <!-- Additional HTML Elements -->
+    <!-- Paragraph -->
+    <p>This is my personal portfolio page for Web-based Applications.</p>
+
+    <!-- Inline element example -->
+    <p>My university is <span>Southern Illinois University</span>.</p>
+
+    <!-- Unordered List -->
+    <ul>
+        <li>Web Development</li>
+        <li>Community Outreach</li>
+        <li>Technology Projects</li>
+    </ul>
+
+    <!-- Horizontal rule -->
+    <hr>
+
+    <!-- Emphasis inline element -->
+    <p><em>Building technology for community growth.</em></p>
+
+</body>
+</html>
